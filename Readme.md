@@ -1,6 +1,8 @@
 alpine base Docker with emscripten container
 ====================
 
+[![Build Status](https://travis-ci.org/kazu69/docker-emscripten.svg?branch=master)](https://travis-ci.org/kazu69/docker-emscripten)
+
 > You can create the docker image you need to develop in the Alpine Linux
 
 Installation
